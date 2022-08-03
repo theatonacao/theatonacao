@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theatonacao
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Reactjs and Nodejs
+- 🌱 I’m currently learning Reactjs
 - 📫 How to reach me -> theabeatriztonacao@gmail.com 
 
 <!---
